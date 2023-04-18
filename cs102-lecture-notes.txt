@@ -1,0 +1,4 @@
+git add- moves changes from working directory to repository.
+git clear- removes untracked files from the working directory
+git commit- moves file from staging area to main branch
+git clone- helps to add the direcory to the repository
