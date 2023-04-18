@@ -2,3 +2,4 @@ git add- moves changes from working directory to repository.
 git clear- removes untracked files from the working directory
 git commit- moves file from staging area to main branch
 git clone- helps to add the direcory to the repository
+git --version - it is used to check whether a github is installed in a pc or not
